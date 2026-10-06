@@ -4,7 +4,7 @@ Is your favorite ship have too much cargo space but not enough bunks for capturi
 This plugin add two new outfits for rebalancing the cargo space and bunk space without taking up the outfit space of your ships.
 
 # How To Install and Play
-To install this plugin, download this repository (or a release folder) and extract into your plugins directory for Endless Sky
+To install this plugin, download this repository (or a release folder) and extract into your plugins directory for Endless Sky. To install on mobile, download the zip file, then, in game, go to Preferences -> Plugins -> Import and choose the downloaded zip file.
 
 
 # Changelog
