@@ -1,0 +1,35 @@
+# Copyright © 2014 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+outfit "Extra Bunk"
+	category "Systems"
+	cost 5000
+	thumbnail "outfit/extra bunks"
+	"mass" 1
+	"bunks" 1
+	"cargo space" -1
+	"unplunderable" 1
+	description "Turn some small space from your ship's cargo hold into a simple bunk."
+
+outfit "Extra Cargo"
+	category "Systems"
+	cost 5000
+	thumbnail "outfit/extra cargo"
+	"mass" 1
+	"cargo space" 1
+	"bunks" -1
+	"unplunderable" 1
+	description "Remove stuffs from one of your ship's bunks and turn it into small cargo space."
+
+outfitter "spacebalancing"
+	location
+		attributes "outfitter"
+	"Extra Bunk"
+	"Extra Cargo"
