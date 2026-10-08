@@ -1,4 +1,7 @@
-Upstream-Contact: Spacecial (spacecialtimely@atomicmail.io)
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Cargo & Bunks Rebalance
+Upstream-Contact: Spacecial <spacecialtimely@atomicmail.io>
+Source: https://github.com/Spacecial/Cargo-and-Bunks-Rebalance
 
 All the text in this work is dedicated into the public domain under the code of the Creative Commons CC0-1.0 Unversal Public Domain Dedication.
 See https://creativecommons.org/publicdomain/zero/1.0/
@@ -10,16 +13,16 @@ Files:
  icon.png
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
-Comment: Modified by Spacecial (spacecialtimely@atomicmail.io). Derived from endless-sky images/outfit/small bunk room.png
+Comment: Modified by Spacecial <spacecialtimely@atomicmail.io>. Derived from endless-sky images/outfit/small bunk room.png
 
 Files:
  images/outfit/extra bunks.png
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
-Comment: Modified by Spacecial (spacecialtimely@atomicmail.io). Derived from endless-sky images/outfit/small bunk room.png
+Comment: Modified by Spacecial <spacecialtimely@atomicmail.io>. Derived from endless-sky images/outfit/small bunk room.png
 
 Files:
  images/outfit/extra cargo.png
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
-Comment: Modified by Spacecial (spacecialtimely@atomicmail.io). Derived from endless-sky images/outfit/cargo expansion.png
+Comment: Modified by Spacecial <spacecialtimely@atomicmail.io>. Derived from endless-sky images/outfit/cargo expansion.png
